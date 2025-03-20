@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35825.156 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "250319 기본실습", "250319 기본실습.csproj", "{FD3EB24F-575D-4B5C-B33E-EF60C36BB0A4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleGame", "ConsoleGame.csproj", "{43BD83EA-B67A-48DF-B117-433597B62F53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FD3EB24F-575D-4B5C-B33E-EF60C36BB0A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FD3EB24F-575D-4B5C-B33E-EF60C36BB0A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FD3EB24F-575D-4B5C-B33E-EF60C36BB0A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FD3EB24F-575D-4B5C-B33E-EF60C36BB0A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43BD83EA-B67A-48DF-B117-433597B62F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43BD83EA-B67A-48DF-B117-433597B62F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43BD83EA-B67A-48DF-B117-433597B62F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43BD83EA-B67A-48DF-B117-433597B62F53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {47D8B3A6-7F5D-49AB-84BD-A3A90CF6D12A}
+		SolutionGuid = {D7A38508-2DC3-449A-833D-E5163A74C095}
 	EndGlobalSection
 EndGlobal
